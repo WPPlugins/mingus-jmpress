@@ -1,0 +1,16 @@
+.page-list li,
+.page-list li .form-row{
+	clear: both;
+}
+.page-list li .form-row .cell{
+	display: inline-block;
+	width: 18%;
+	font-size: 1em;
+}
+.page-list li .form-row .cell label{
+	display: block;
+	font-weight: bold;
+}
+.page-list li .form-row .cell input{
+	width: 80%;
+}
